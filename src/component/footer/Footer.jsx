@@ -17,7 +17,7 @@ const Footer = () => {
                     <div className="flex justify-center">
                         <IoLocationSharp className="text-5xl  hover:text-lightblue"/>
                     </div>
-                    <p>#92, 3rd Main, Virgo Nagar, Post, <br/> seeghnhalli, Bengaluru, Karnataka 560049 </p>
+                    <p>119,120 imaliya, malikhedi, vidhisa road, <br/> Karod, Bhopal, Madhya Pradesh 462010 </p>
                 </div>
                 {/* email section */}
                 <div className="text-center space-y-4">
